@@ -1,0 +1,15 @@
+row.names,Sample_ID,Sample_Type,Sample_Conditions,Sample_Temperature,Sample_Agitation_Speed,Sample_Air_Flowrate
+1,S1,Planktonic,Control,40C,100rpm,0sL/h
+2,S10,Film,Control,40C,100rpm,0sL/h
+3,S11,Film,pH 8,40C,100rpm,0sL/h
+4,S12,Film,pH 9,40C,100rpm,0sL/h
+5,S13,Film,pH 10,40C,100rpm,0sL/h
+6,S14,Film,pH 11,40C,100rpm,0sL/h
+7,S2,Planktonic,Control,40C,100rpm,0sL/h
+8,S3,Planktonic,pH 8,40C,100rpm,0sL/h
+9,S4,Planktonic,pH 8,40C,100rpm,0sL/h
+10,S5,Planktonic,pH 8,40C,100rpm,0sL/h
+11,S6,Planktonic,pH 8,40C,100rpm,0sL/h
+12,S9,Film,Control,40C,100rpm,0sL/h
+13,S95,Planktonic,,,,
+14,S96,Planktonic,,,,

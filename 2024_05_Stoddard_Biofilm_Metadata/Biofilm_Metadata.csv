@@ -1,0 +1,44 @@
+row.names,Sample_ID,Sample_Type,Sample_Conditions,Sample_Temperature,Sample_Agitation_Speed,Sample_Air_Flowrate
+1,Bx13F,Film,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+2,Bx13L,Planktonic,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+3,Bx14F,Film,Increased Agitation,40C,750rpm,0sL/h
+4,Bx14L,Planktonic,Increased Agitation,40C,750rpm,0sL/h
+5,Bx15F,Film,Decreased Temperature,30C,100rpm,0sL/h
+6,Bx15L,Planktonic,Decreased Temperature,30C,100rpm,0sL/h
+7,Bx16F,Film,Decreased Temperature,30C,100rpm,0sL/h
+8,Bx16L,Planktonic,Decreased Temperature,30C,100rpm,0sL/h
+9,Bx17F,Film,Increased Agitation,40C,750rpm,0sL/h
+10,Bx17L,Planktonic,Increased Agitation,40C,750rpm,0sL/h
+11,Bx18F,Film,Increased Airflow,40C,100rpm,10sL/h
+12,Bx18L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+13,Bx19F,Film,pH 8,40C,100rpm,0sL/h
+14,Bx19L,Planktonic,pH 8,40C,100rpm,0sL/h
+15,Bx20F,Film,pH 8,40C,100rpm,0sL/h
+16,Bx20L,Planktonic,pH 8,40C,100rpm,0sL/h
+17,Bx21F,Film,Increased Airflow,40C,100rpm,10sL/h
+18,Bx21L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+19,Bx22F,Film,Increased Airflow,40C,100rpm,10sL/h
+20,Bx22L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+21,Bx23F,Film,Decreased Temperature,30C,100rpm,0sL/h
+22,Bx23L,Planktonic,Decreased Temperature,30C,100rpm,0sL/h
+23,Bx24F,Film,Increased Agitation,40C,750rpm,0sL/h
+24,Bx24L,Planktonic,Increased Agitation,40C,750rpm,0sL/h
+25,Bx25F,Film,Control,40C,100rpm,0sL/h
+26,Bx25L,Planktonic,Control,40C,100rpm,0sL/h
+27,Bx26F,Film,Decreased Temperature,30C,100rpm,0sL/h
+28,Bx26L,Planktonic,Decreased Temperature,30C,100rpm,0sL/h
+29,Bx27F,Film,Decreased Temperature,30C,100rpm,0sL/h
+30,Bx27L,Planktonic,Decreased Temperature,30C,100rpm,0sL/h
+31,Bx28F,Film,Increased Airflow,40C,100rpm,10sL/h
+32,Bx28L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+33,Bx29F,Film,Increased Airflow,40C,100rpm,10sL/h
+34,Bx29L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+35,Bx30F,Film,Increased Airflow,40C,100rpm,10sL/h
+36,Bx30L,Planktonic,Increased Airflow,40C,100rpm,10sL/h
+37,Bx7F,Film,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+38,Bx7L,Planktonic,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+39,Bx8F,Film,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+40,Bx8L,Planktonic,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+41,Bx9F,Film,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+42,Bx9L,Planktonic,Decreased Temperature and Increased Airflow,30C,100rpm,10sL/h
+43,L1,Planktonic,Seed Culture,30C,N/A,N/A
